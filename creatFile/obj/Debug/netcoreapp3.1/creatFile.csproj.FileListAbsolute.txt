@@ -1,0 +1,13 @@
+C:\creatFile\creatFile\bin\Debug\netcoreapp3.1\creatFile.exe
+C:\creatFile\creatFile\bin\Debug\netcoreapp3.1\creatFile.deps.json
+C:\creatFile\creatFile\bin\Debug\netcoreapp3.1\creatFile.runtimeconfig.json
+C:\creatFile\creatFile\bin\Debug\netcoreapp3.1\creatFile.runtimeconfig.dev.json
+C:\creatFile\creatFile\bin\Debug\netcoreapp3.1\creatFile.dll
+C:\creatFile\creatFile\bin\Debug\netcoreapp3.1\creatFile.pdb
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.csprojAssemblyReference.cache
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.AssemblyInfoInputs.cache
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.AssemblyInfo.cs
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.csproj.CoreCompileInputs.cache
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.dll
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.pdb
+C:\creatFile\creatFile\obj\Debug\netcoreapp3.1\creatFile.genruntimeconfig.cache
